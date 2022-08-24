@@ -4,8 +4,13 @@
 // Package main is responsible for the execution of CLI
 package main
 
-import "github.com/kubearmor/kubearmor-client/cmd"
+import (
+	"fmt"
+
+	"github.com/kubearmor/kubearmor-client/cmd"
+)
 
 func main() {
+	fmt.Println("Hello")
 	cmd.Execute()
 }
