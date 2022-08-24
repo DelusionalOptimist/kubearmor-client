@@ -17,7 +17,7 @@ require (
 	github.com/clarketm/json v1.17.1
 	github.com/docker/docker v20.10.17+incompatible
 	github.com/fatih/color v1.13.0
-	github.com/kubearmor/KVMService/src/types v0.0.0-20220714130113-b0eba8c9ff34
+	github.com/kubearmor/KVMService/src/types cd7a8b3687ed
 	github.com/kubearmor/KubeArmor/KubeArmor v0.0.0-20220824082319-7ff5ebdb2317
 	github.com/kubearmor/KubeArmor/deployments v0.0.0-20220824082319-7ff5ebdb2317
 	github.com/kubearmor/KubeArmor/pkg/KubeArmorHostPolicy v0.0.0-20220620050120-7e1810d2ad41
