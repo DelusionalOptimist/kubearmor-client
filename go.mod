@@ -47,7 +47,7 @@ require (
 	sigs.k8s.io/yaml v1.3.0
 )
 
-require k8s.io/utils v0.0.0-20220812165043-ad590609e2e5
+require k8s.io/utils v0.0.0-20220823124924-e9cbc92d1a73
 
 require (
 	cloud.google.com/go/compute v1.7.0 // indirect
