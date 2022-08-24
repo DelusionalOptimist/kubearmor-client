@@ -3,5 +3,8 @@
   "extends": [
     "config:base"
   ],
+  "constraints": {
+    "go": "1.18"
+  },
   "ignorePresets": [":prHourlyLimit2"]
 }
