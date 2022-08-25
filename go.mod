@@ -20,7 +20,7 @@ require (
 	github.com/kubearmor/KVMService/src/types v0.0.0-20220714130113-b0eba8c9ff34
 	github.com/kubearmor/KubeArmor/KubeArmor v0.0.0-20220824082319-7ff5ebdb2317
 	github.com/kubearmor/KubeArmor/deployments v0.0.0-20220824082319-7ff5ebdb2317
-	github.com/kubearmor/KubeArmor/pkg/KubeArmorHostPolicy v0.0.0-20220620050120-7e1810d2ad41
+	github.com/kubearmor/KubeArmor/pkg/KubeArmorHostPolicy v0.0.0-20220825185443-557eed6f971a
 	github.com/kubearmor/KubeArmor/pkg/KubeArmorPolicy v0.0.0-20220620050120-7e1810d2ad41
 	github.com/kubearmor/KubeArmor/protobuf v0.0.0-20220815044951-425f333210e1
 	github.com/mholt/archiver/v3 v3.5.1
